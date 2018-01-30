@@ -1,0 +1,13 @@
+{
+    "name": "vendor/ambimax-pet",
+    "description": "Description of project ambimaxPet.",
+    "authors": [
+        {
+            "name": "mikimaus",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "fortawesome/font-awesome": "dev-master"
+    }
+}

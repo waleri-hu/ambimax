@@ -1,0 +1,20 @@
+{
+  "name": "vendor/ambimax",
+  "description": "Description of project ambimax.",
+  "authors": [
+    {
+      "name": "mikimaus",
+      "email": "your@email.here"
+    }
+  ],
+  "require": {
+    "phpunit/phpunit": "6.5.x-dev"
+  },
+
+  "autoload": {
+    "psr-4": {
+      "ambimax\\": ["src/"],
+      "ambimaxTest\\": ["test/"]
+    }
+  }
+}
